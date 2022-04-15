@@ -1,1 +1,1 @@
-This Zip contaions some fo the petrodactyl themes.
+This Zip cantains some fo the petrodactyl themes.
